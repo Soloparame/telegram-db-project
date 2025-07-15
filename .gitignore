@@ -1,6 +1,11 @@
 # Python
 __pycache__/
 *.pyc
+# .gitignore
+
+logs/
+__pycache__/
+*.jpg
 
 # Environment
 .env
